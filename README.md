@@ -22,8 +22,11 @@ https://paheli-cyber-security.vercel.app/
 
 ### 🧩 Tech Stack
 React.js – Component-based frontend framework
+
 Tailwind CSS – Utility-first styling
+
 JavaScript – For interactivity and logic
+
  CRA – for fast development build
 
 ### 🚀 Getting Started
