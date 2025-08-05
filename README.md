@@ -1,5 +1,6 @@
 # 🛡️ Paheli - Cyber Security Awareness Platform
-
+![Dashboard Screenshot](paheli.png)
+### About Project
 **Paheli** is a modern and responsive web application designed to raise awareness about cyber security practices. Built using **React.js** and **Tailwind CSS**, this project educates users about online safety, data protection, and secure internet practices in an engaging and accessible way.
 
 ---
@@ -10,7 +11,7 @@ https://paheli-cyber-security.vercel.app/
 
 ---
 
-⚙️ Features
+### ⚙️ Features
 🔒 Cyber security awareness and education
 📱 Fully responsive design for all devices
 ⚡ Fast and lightweight with Tailwind CSS
@@ -19,13 +20,13 @@ https://paheli-cyber-security.vercel.app/
 
 ---
 
-🧩 Tech Stack
+### 🧩 Tech Stack
 React.js – Component-based frontend framework
 Tailwind CSS – Utility-first styling
 JavaScript – For interactivity and logic
  CRA – for fast development build
 
-🚀 Getting Started
+### 🚀 Getting Started
 1. Clone the Repository
 
 git clone https://github.com/Zartasha-kanwal/Paheli-cyber-security.git
